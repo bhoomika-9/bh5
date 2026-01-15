@@ -1,1 +1,2 @@
-line 1
+Git is used for version control.
+
