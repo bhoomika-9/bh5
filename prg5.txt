@@ -1,3 +1,2 @@
-Git is used for source code management.
-
+Git is used for distributed version control.
 
